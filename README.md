@@ -5,7 +5,7 @@ I'm a .NET full stack developer, I'd like to make some contributions for .net op
 ### Contact me
 
 - <https://github.com/wanglong>
-- <https://www.cnblogs.com/wanglong>
+- <http://hackervirus.byethost18.com>
 - <wanglong2020@outlook.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wanglong&show_icons=true&theme=dark)
